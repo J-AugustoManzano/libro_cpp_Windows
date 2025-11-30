@@ -1,0 +1,1 @@
+Los archivos de programa de este repositorio son parte integral del libro "C++ para Windows: Guía de Introducción para Principiantes" y solo deben ser utilizados por los propietarios del libro adquirido en librerías.
